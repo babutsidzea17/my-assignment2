@@ -2,6 +2,10 @@ html {
   margin-left: 104px;
 }
 
+body{
+  width: 1080px;
+}
+
 a {
   text-decoration: none;
 }
